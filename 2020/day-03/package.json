@@ -1,0 +1,14 @@
+{
+  "name": "day-03",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "part1": "node part1.js",
+    "part2": "node --trace-warnings part2.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ramda": "^0.27.1"
+  }
+}
