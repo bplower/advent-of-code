@@ -2,10 +2,9 @@
   "name": "day-02",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "scripts": {
-    "part1": "node index-part1.js",
-    "part2": "node index-part2.js"
+    "part1": "node part1.js",
+    "part2": "node part2.js"
   },
   "author": "",
   "license": "ISC",
